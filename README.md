@@ -1,14 +1,3 @@
 ### Hello bois😒 and grils💙
 
-<!--
-**SAAD-X/SAAD-X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-### 🔭 I’m currently working on ... Student
-### 🌱 I’m currently learning ... Everthing🤣
-### 💬 Ask me about ... 
-### 📫 How to reach me: ... 
-### 😄 Pronouns: ...
-### ⚡ Fun fact: ...
-
+![giphy](https://user-images.githubusercontent.com/66327542/89814259-adf5c880-db64-11ea-848b-47e288525918.gif)
