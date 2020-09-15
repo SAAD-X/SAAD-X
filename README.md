@@ -40,11 +40,10 @@
 
 ### Connect with Me
 
-<a href="https://www.linkedin.com/in/lithaxor" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://dev.to/lithaxor" target="_blank"><img src="https://img.shields.io/badge/DEV-%230A0A0A.svg?&style=flat-square&logo=DEV.to&logoColor=white" alt="DEV.to"></a>
-<a href="https://twitter.com/lithaxor" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
-<a href="https://medium.com/@lithaxor" target="_blank"><img src="https://img.shields.io/badge/Medium-%23292929.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
-<a href="https://www.facebook.com/lithaxor/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
-<a href="https://www.instagram.com/lithaxor" target="_blank"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="instagram"></a>
+<a href="https://twitter.com/rakinsadaftab" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://medium.com/@rakinsadaftab" target="_blank"><img src="https://img.shields.io/badge/Medium-%23292929.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
+<a href="https://www.facebook.com/rakinshadaftab/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
+<a href="https://www.instagram.com/rakinshadaftab" target="_blank"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="instagram"></a>
+<a href="https://www.linkedin.com/in/rakin-sad-aftab-5369081a9/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 
 </div>
