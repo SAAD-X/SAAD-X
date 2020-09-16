@@ -7,9 +7,9 @@
 ## I'm a student!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Want to learn as much as i can
+- 🥅 2020 Goals: Want to learn as much as i can.
 - ⚡ Fun fact  : I love to listening music.
-
+- ☯  Bad Things: I love to do nonsense stuffs.
 <br />
 
 ### Languages and Tools:
