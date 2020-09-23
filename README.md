@@ -30,6 +30,7 @@
 <img align="left" alt="Git" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
+<img align="left" alt="Terminal" width="30px" src="![sticker-png-bitbucket-logo-computer-icons-logo-icon-miscellaneous-logo-black-git](https://user-images.githubusercontent.com/66327542/94048975-17b8f180-fdf6-11ea-9411-bd21c64f4767.png)" />
 
 <br />
 
