@@ -1,6 +1,7 @@
 ### Hello bois😒 and grils💙
 
-![giphy](https://user-images.githubusercontent.com/66327542/89814259-adf5c880-db64-11ea-848b-47e288525918.gif) </b>
+![giphy](https://user-images.githubusercontent.com/66327542/89814259-adf5c880-db64-11ea-848b-47e288525918.gif)
+![200](https://user-images.githubusercontent.com/66327542/94568944-f4c38d00-028e-11eb-8480-342c525c4713.gif)</b>
 
 ### Hi there, I'm Rakin Sad Aftab👋
 
