@@ -1,6 +1,5 @@
 ### Hello bois😒 and grils💙
-![coding-freak](https://user-images.githubusercontent.com/66327542/94569408-80d5b480-028f-11eb-9ef2-6339336433d6.gif)
-![programming-punching-keyboard-coding-anger-13716030304](https://user-images.githubusercontent.com/66327542/94569102-28061c00-028f-11eb-9812-5253e9a9083c.gif)</b>
+![coding-freak](https://user-images.githubusercontent.com/66327542/94569408-80d5b480-028f-11eb-9ef2-6339336433d6.gif)</b>
 
 ### Hi there, I'm Rakin Sad Aftab👋
 
