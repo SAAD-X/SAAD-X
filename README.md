@@ -51,7 +51,8 @@
   
 ### <u>Let's code together in online</u>
 
-<a herf="https://codeforces.com/profile/RakinSadAftab" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%230077B5.svg?&style=flat-square&logo=Codeforces&logoColor=white" alt="Codeforces"></a>
+<a class="w3-hover-opacity" href="https://codeforces.com/profile/RakinSadAftab" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%23292929.svg?&
+style=flat-square&logo=Codeforces&logoColor=white" alt="Codeforces"></a>
 <a herf="https://www.codechef.com/users/rakinsadaftab" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%230077B5.svg?&style=flat-square&logo=CodeChef&logoColor=white" alt="CodeChef"></a>
 <a herf="https://www.hackerearth.com/@rakinsad" target="_blank"><img src="https://img.shields.io/badge/hackerearth-%23292929.svg?&style=flat-square&logo=hackerearth&logoColor=white" alt="hackerearth"></a>
 
