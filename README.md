@@ -1,5 +1,5 @@
 ### Hello bois😒 and grils💙
-<img align="left" alt="Visual Studio Code" width="1000px" src="https://user-images.githubusercontent.com/66327542/95017016-8c9eed80-0678-11eb-8010-5444c2d6f095.gif" /><br/>
+<img align="left" alt="Visual Studio Code" src="https://user-images.githubusercontent.com/66327542/95017016-8c9eed80-0678-11eb-8010-5444c2d6f095.gif" /><br/>
 
 
 ## I'm a student!
