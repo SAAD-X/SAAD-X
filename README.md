@@ -43,7 +43,7 @@
 </div>
 <div>
   
-### <u>Let's code together in online</u>
+### <u>Let's code together in online
 
 <a href="https://codeforces.com/profile/RakinSadAftab" target="_blank"><img src="https://img.shields.io/badge/Codeforces-%23292929.svg?&style=flat-square&logo=Codeforces&logoColor=white" alt="Codeforces"></a>
 <a href="https://www.codechef.com/users/rakinsadaftab" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23292929.svg?&style=flat-square&logo=CodeChef&logoColor=white" alt="CodeChef"></a>
