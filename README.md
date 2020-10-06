@@ -32,7 +32,7 @@
 
 <div>
   
-### <u>Connect with Me
+### Connect with Me
 
 <a href="https://twitter.com/rakinsadaftab" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
 <a href="https://medium.com/@rakinsadaftab" target="_blank"><img src="https://img.shields.io/badge/Medium-%23292929.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
