@@ -5,7 +5,7 @@
 - 🥅 2020 Goals: Want to learn as much as i can.
 - ⚡ Fun fact  : I love to write code with background music.
 - ☯  Bad Things: I love to do nonsense stuffs.
-<br />
+<br>
 
 ### Languages and Tools:
 
