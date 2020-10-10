@@ -2,7 +2,7 @@
 ## I'm a student!
 
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Want to learn as much as i can.
+- 🥅 2020 Goals: Want to learn as much as I can.
 - ⚡ Fun fact  : I love to write code with background music.
 - ☯  Bad Things: I love to do nonsense stuffs.
 <br>
