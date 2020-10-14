@@ -24,8 +24,7 @@
 <br>
 <br>
 <br>
-<div>
-  
+<div> 
 ### Connect with Me
 
 <a href="https://twitter.com/rakinsadaftab" target="_blank"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
