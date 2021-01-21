@@ -28,7 +28,7 @@
 <div> 
   
 ### Connect with Me
-<a href="https://twitter.com/rakinsadaftab"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=flat-square&logo=twitter&logoColor=white" alt="Twitter"></a>
+<a href="https://twitter.com/rakinsadaftab"><img src="https://img.shields.io/badge/Twitter-%2300ACEE.svg?&style=flat-square&logo=twitter&logoColor=white" target="_blank" alt="Twitter"></a>
 <a href="https://medium.com/@rakinsadaftab" target="_blank"><img src="https://img.shields.io/badge/Medium-%23292929.svg?&style=flat-square&logo=medium&logoColor=white" alt="Medium"></a>
 <a href="https://www.facebook.com/rakinshadaftab/" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a>
 <a href="https://www.instagram.com/rakinshadaftab" target="_blank"><img src="https://img.shields.io/badge/-Instagram-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white" alt="instagram"></a>
