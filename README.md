@@ -1,4 +1,4 @@
-![335f6d0c74c29626008bae58feb98808](https://user-images.githubusercontent.com/66327542/95258326-68453b80-0847-11eb-9e36-804b3405f820.gif)<br>
+![54ee5cd32e3a6991e3271c0b23b22bb0](https://user-images.githubusercontent.com/66327542/106923182-04207e80-6738-11eb-83fd-8ffe8c881ba4.gif)<br>
 ## I'm a student!
 
 - 🌱 I’m currently learning everything 🤣
