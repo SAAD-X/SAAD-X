@@ -1,6 +1,5 @@
 ![image](https://user-images.githubusercontent.com/66327542/108635714-08c09300-74ab-11eb-9bb8-196edc055755.png)
 ![image](https://user-images.githubusercontent.com/66327542/108635714-08c09300-74ab-11eb-9bb8-196edc055755.png)
-![image](https://user-images.githubusercontent.com/66327542/108635714-08c09300-74ab-11eb-9bb8-196edc055755.png)
 <br>
 ## I'm a student!
 
