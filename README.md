@@ -1,4 +1,5 @@
-<img align="left" alt="HTML5" width="300px" src="https://user-images.githubusercontent.com/66327542/106923182-04207e80-6738-11eb-83fd-8ffe8c881ba4.gif" /> <br><br>
+<img align="left" alt="HTML5" width="300px" src="https://user-images.githubusercontent.com/66327542/106923182-04207e80-6738-11eb-83fd-8ffe8c881ba4.gif" />
+<img align="left" alt="HTML5" width="300px" src="https://user-images.githubusercontent.com/66327542/106923182-04207e80-6738-11eb-83fd-8ffe8c881ba4.gif" /><br><br>
 ## I'm a student!
 
 - 🌱 I’m currently learning everything 🤣
