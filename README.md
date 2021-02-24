@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/66327542/108635714-08c09300-74ab-11eb-9bb8-196edc055755.png)
+![image](https://user-images.githubusercontent.com/66327542/109031188-ae177900-76ee-11eb-80e8-2a93e3f97629.png)
 <br>
 ## I'm a student!
 
