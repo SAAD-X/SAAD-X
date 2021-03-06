@@ -43,5 +43,4 @@
 <a href="https://www.codechef.com/users/rakinsadaftab" target="_blank"><img src="https://img.shields.io/badge/CodeChef-%23292929.svg?&style=flat-square&logo=CodeChef&logoColor=white" alt="CodeChef"></a>
 <a href="https://www.hackerearth.com/@rakinsad" target="_blank"><img src="https://img.shields.io/badge/hackerearth-%23292929.svg?&style=flat-square&logo=hackerearth&logoColor=white" alt="hackerearth"></a>
 <a href="https://codepen.io/rakinsadaftab" target="_blank"><img src="https://img.shields.io/badge/codepen-%23292929.svg?&style=flat-square&logo=codepen&logoColor=white" alt="codepen"></a>
-
 </div>
